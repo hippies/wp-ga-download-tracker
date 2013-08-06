@@ -1,0 +1,756 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wp_",
+				"wp_generator"
+			],
+			[
+				"Jönkö",
+				"Jönköping"
+			],
+			[
+				"locatio",
+				"locationstring"
+			],
+			[
+				"anta",
+				"Antagningskanslier"
+			],
+			[
+				"antag",
+				"antagningskansli"
+			],
+			[
+				"Antagn",
+				"Antagningskansli"
+			],
+			[
+				"antagnings",
+				"Antagningskansli"
+			],
+			[
+				"simplexml",
+				"simplexml_load_file"
+			],
+			[
+				"strip",
+				"stripslashes"
+			],
+			[
+				"is_user",
+				"is_user_logged_in"
+			],
+			[
+				"functon",
+				"function_exists"
+			],
+			[
+				"locat",
+				"location_data"
+			],
+			[
+				"lcatio",
+				"location_data"
+			],
+			[
+				"location",
+				"location_string"
+			],
+			[
+				"locati",
+				"location_data"
+			],
+			[
+				"vk_build_dynamic_",
+				"vk_build_dynamic_description"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"error",
+				"errorcount"
+			],
+			[
+				"name",
+				"nameservers"
+			],
+			[
+				"result",
+				"resultatet"
+			],
+			[
+				"red-qote",
+				"red-quote-box"
+			],
+			[
+				"subl",
+				"sublog_labels"
+			],
+			[
+				"generate_i",
+				"generate_imdb_markup"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test.php",
+			"settings":
+			{
+				"buffer_size": 994,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"tidy",
+				"Tidy PHP"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"package contro",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"php",
+				"Tidy PHP"
+			],
+			[
+				"package",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"consol",
+				"Set Syntax: R Console"
+			],
+			[
+				"package c",
+				"Package Control: Install Package"
+			],
+			[
+				"package cont",
+				"Package Control: Install Package"
+			],
+			[
+				"tid",
+				"Tidy PHP"
+			],
+			[
+				"Snippet: shor",
+				"Snippet: Shortcode"
+			],
+			[
+				"type",
+				"Snippet: Custom Post Type: Register"
+			],
+			[
+				"select",
+				"Rot13 Selection"
+			],
+			[
+				"Snippet: plugin",
+				"Snippet: Plugin Head"
+			],
+			[
+				"Snippet: short",
+				"Snippet: Shortcode"
+			],
+			[
+				"Snippet: plugi",
+				"Snippet: Plugin Head"
+			],
+			[
+				"Snippet: plug",
+				"Snippet: Plugin Readme"
+			],
+			[
+				"package contr",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"plgi",
+				"Snippet: Plugin Readme"
+			],
+			[
+				"Class",
+				"Snippet: Class"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/diskontera.txt",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/spara fika.txt",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/function hip_hantera_saved_post.php",
+		"/Applications/MAMP/htdocs/testsajt/index.php",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/hej.php",
+		"/Users/christian/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/christian/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/christian/Library/Application Support/Sublime Text 2/Packages/User/Default ().sublime-keymap",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/woodheart.txt",
+		"/Users/christian/Dropbox/Kod/ingressdecodez/ae-http-test.pl",
+		"/Users/christian/resistance requreit",
+		"/Users/christian/Dropbox/Kod/ingressdecodez/working.pl",
+		"/Users/christian/Dropbox/Kod/ingressdecodez/beta.pl",
+		"/Users/christian/infintewp.txt",
+		"/Users/christian/2013-07-17-kl23",
+		"/Users/christian/deladela.html",
+		"/Users/christian/428dagar.txt secure",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/37E4F5A0-2E55-43A9-9A76-B351E538059C/functions.php",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/dela.html",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/resistance ansökningar.txt",
+		"/Volumes/akademin/Klas Blomstrand, Beckmans.txt",
+		"/Volumes/akademin/wp-config.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/099C69E2-48FC-4809-8EE1-44236C11D996/geoencode.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/9DD079FF-85AB-4259-942C-13B6395B11BA/geoencode.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/CD09F884-665F-4331-9B7B-16AC995159BA/geoencode.php",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/antagningskanslier.html",
+		"/Users/christian/Dropbox/Downloads/Jonas Svensson gmail",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/FA0BC8B6-59DF-484B-832B-85A9CE740693/gg-core.php",
+		"/Users/christian/Dropbox/Downloads/gymnasieguiden",
+		"/Users/christian/Dropbox/Downloads/birka_distrikt.xml",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/F01BC99C-3574-41D5-B8C1-48A5EFB902E5/parser.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/14FD8CED-1309-4716-BE0A-8A59A92EE866/class.tagliatelle.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/B0C16680-62A2-44C1-8096-D6D8B37E430C/program-parser.php",
+		"/Users/christian/heloz/hh.php",
+		"/Users/christian/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/save.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/8A59EC88-A76C-4AF5-9C8F-39AFF91691C0/importer-lib.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/498F2311-F1B6-48DD-928D-EFA8FEE158BF/parser.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/0C017A43-4867-44F5-86E5-29CADEFC0953/programs-and-images-linted.json",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/1FBF57A9-1B6E-4486-B50C-6839D57E65D8/program-parser.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/9FBD707F-DEB1-4B9C-8595-88ED02762737/page-startsida.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/AF30D30B-CBF0-45F6-9158-0682F7F2AA4D/extended-importer.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/E234E807-63FD-4D4C-9622-21D98F715D26/style.css",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/0426DC63-2A3F-4FA9-8108-263A0FB5EE9B/header.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/92018CF1-58ED-445D-9224-4FE79F8195AA/sidebar.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/038BAB95-6413-4F3C-BF22-B0B37621F847/style.css",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/C28CD56B-E7DB-4E7C-9AF5-B911567D649B/smurfredirct.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/9A4E474D-1EBE-42DE-B44F-970AF604BAFD/save.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/4C4BC93C-4137-4B9B-8541-9F1056285881/importer-lib.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/534D4134-70F6-4375-B154-57F477DE4D05/parser.php",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/Att göra.txt",
+		"/Users/christian/Dropbox/Downloads/GG-export/save.php",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/alllers teknikmöte 2013-06-18.txt",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/\"Datacentret i Falkenberg är uppdelat i två olika",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/85555EA7-8919-4FC3-B443-C1077A57A6BE/fia-search.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/A56CC3E7-6A01-45EF-8197-B476DDD6D8C4/class-fia-premise.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/9F8B7097-1003-470D-A0CF-A0E835D9F71E/class-fia-icon.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/21150190-C399-4A39-BFC2-804DFEE8751F/class-fia-entity.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/3FF55ED1-EE70-4731-88C7-7DC8B266E482/class-fia-searcher.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/0FEB07E0-CF6C-40BD-B2EC-B41A5184AF7A/page-fia-search-result.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/2DF84128-FD11-430A-93A3-A2FED39FCE1F/part-list-custom-pageintro.php",
+		"/Users/christian/Dropbox/Kod/ingresstools/Portaler/parse-log.php",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/att göra måndag",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/vpn-access fridhemsgatan.txt",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/653A0B92-BC57-41FF-BE0C-22D4B0625231/class-fia-premise.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/2BCB01E0-69B7-451D-8F5B-4B46BC19285C/page-fia-search-result.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/A40C9066-FD62-4847-A210-A5FF41D8350A/part-list-premise-search-results.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/1E86E70F-FB4B-4E17-904C-C846F678A748/part-list-premises-intro.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/365C982F-1691-479D-A56B-9AC99C2DA6EB/part-list-premise-search-results.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/44CC75A3-3EF0-4BCA-B942-70157B45D348/page-fia-search-result.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/8FDB6746-067C-49F9-AA7B-37F8FBD60C21/part-list-premises-intro.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/8077109C-78E2-44C6-9031-706C0B041F85/page-om-vasakronan-fastigheter.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/10C26647-A0FE-4E1E-B0E9-5DB0D3C2A4F5/part-search-results.php",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/att göra 2013-06-11",
+		"/Users/christian/Dropbox/Downloads/schools.json",
+		"/testet - Kristoffer, kolla vad som ska göras - vi",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/848341ED-01CF-4D36-8188-6799CC575271/404.php",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/sigtuna meetings.txt",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/B2C7E21B-4C56-4181-853C-0A9EF2B1F0CC/hip-save-shorturls.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/E30943E0-32F4-4D82-9DC1-40F95D84EB08/class-ai1ec-calendar-controller.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/45A0AE80-EC15-4025-BF90-00F3BB945C1C/class-ai1ec-events-helper.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/CFAB0C3C-1E86-48DD-9EC5-EFA6209FCD90/class-ai1ec-events-controller.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/B92F3BBD-8BBE-456C-B653-BB9131762A43/class-ai1ec-app-helper.php",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/javascript-wm",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/C71D896E-6CBF-4C94-A33B-F10A38BD2E2C/eventcalendar-functions.php",
+		"/Users/christian/Dropbox/Downloads/hippies.wordpress.2013-05-28.xml",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/att göra måndag",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/guestlista-wp10.txt",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/gaster.txt",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/0C676AF0-2A1B-4563-B90C-B275CAABB5B0/eventcalendar-functions.php",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/volumental.txt",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/C1E1E657-B18D-4A50-82EC-E214D1C33416/eventcalendar-functions.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/172C0062-C88C-4BB3-99E4-3329E23E6DC6/eventcalendar-functions.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/1F7B2C15-4C65-471A-9528-324344A54D5E/scripts.js",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/B0CA07D2-8C28-41DB-9C8F-41FEF665A199/scripts.js",
+		"/Users/christian/Betongens barn har växt upp",
+		"/Users/christian/fiender.txt",
+		"/Users/christian/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/mera/index-sv.html",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/73C4E76D-88D2-4961-9E4E-3E1F231EBBC2/startpage.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/ED61D1D1-B8FA-4CF1-B3FF-75B9C0B6C4F1/startpage.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/220223CC-5A2C-44E8-85D7-C1FFF7EB9D32/comments-artikel.php",
+		"/Users/christian/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/booking/booking_form.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/1FD8DD6E-7993-47A1-AC92-06BF491869AF/functions.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/1B18E7E5-5BE1-4C44-91B8-A0271F8D9E63/single.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/6B68691A-F407-4905-A35C-9AD5FEA983BE/loop-single.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/09E396A0-C700-4912-A4AB-671D802D95AC/loop-single.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/C1F9EBD0-6F27-4F77-B308-9DFE6159A0FD/functions.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/EF71D428-14B0-443F-A566-4B9BF2EC2388/index.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/AD4D78EE-1ED4-4259-A1C5-B3FF384E9BA9/topkarmawidget.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/6EEF928B-1742-4D2A-99C5-EC09B88DCB8A/header.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/7653660B-77EF-4BDA-BC86-072D30A9A675/functions.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/257C4F77-FD1B-4272-9ECB-66D5D46AE8BD/functions.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/623F51FC-EC0A-4126-888A-9C5E9A638600/header.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/916E102D-3E7B-409A-87E8-F930DB73B97B/get-recent-comments.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/B37A87E7-7E4B-453F-8CFF-141382D08B8E/functions.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/8E0DBD75-4B82-45AC-A956-8992B1FAE5A1/header.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/37D59E23-707B-46A3-83F8-CA49731F4C46/index.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/D5848E31-CA58-4DB4-BE78-4A2341C954A4/index.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/3BF32390-0333-4BDC-8FA3-C62B99921DAE/page-fia-search-result.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/669B6070-0C9F-4960-82E0-4B5FCD6CE9F9/fia-search.php",
+		"/Users/christian/Library/Caches/Cleanup At Startup/Transmit/00754523-6452-4886-8FDB-452A198D4D0C/style.css",
+		"/Users/christian/Dropbox/Downloads/Swerob/swerob_technomedia/sparepart.swe.xml",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/globalrobotparts.com txt",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/skradmin",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/Stugby.txt",
+		"/asdas.php",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/Städa upp/scripts/scale.php",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/Städa upp/export-nya/export.php",
+		"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/Städa upp/test.php"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"90",
+			"asdasdadasdasd"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"package",
+			"super+shift-c",
+			"conole",
+			"console",
+			"sidebar",
+			"widget",
+			"kommun",
+			"unknown",
+			"postcode",
+			"streetmapp",
+			"streetmapping",
+			"IMG_41",
+			"original_key",
+			"programid",
+			"taggy",
+			"posttype",
+			"post_oject",
+			"getAsset",
+			"meta_prefix",
+			"hej",
+			"5578",
+			"print_r",
+			"pri t_r",
+			"spårbund",
+			"icon",
+			"inga lediga lokaler",
+			"city",
+			"$premises",
+			"clearfix",
+			"list",
+			"slug",
+			"$_GET",
+			"instance_id",
+			"get_calendar_page",
+			"die",
+			"calendar.hpp",
+			"calendar..php",
+			"revision",
+			"menu",
+			"Larsson",
+			"sortByDate",
+			"listEventsSide",
+			"clearevents",
+			"$(",
+			"edreams",
+			"datab",
+			"name",
+			"a name",
+			"name",
+			"ajour_commentparams",
+			"kjgrc_excerpt",
+			"$chars_per_word",
+			"$chars_per_comment",
+			"$comment_excerpt",
+			"$format",
+			"%comment_link",
+			"comment_link",
+			"chars_per_comment",
+			"sql_comment_type",
+			"batch_size",
+			"requested_number_of_comments",
+			"number_of_comments",
+			"kjgrc_get_comments2",
+			"kjgrc_create_recent_comments",
+			"function kjgrc_cache",
+			"kjgrc_cache",
+			"get_recent",
+			"kjgrc_cache",
+			"get_recent_comments",
+			"kjgrc_cache",
+			"part-find-premises",
+			"right",
+			"sidebar",
+			"159389",
+			"die",
+			"dumper",
+			"nameserver",
+			"@nameserver",
+			"-->",
+			"data::dumper",
+			"-->",
+			"->",
+			"-->",
+			"signature",
+			"s",
+			";;",
+			";",
+			"$rr",
+			"typelist",
+			"walker",
+			"search",
+			"scout_rem",
+			"recent",
+			"comment",
+			"62.108.202.131",
+			"codatronca",
+			"max payne",
+			"payne",
+			"payne2",
+			"max payne",
+			"(13505, 20536, 'Max Payne', 'rocky_johansson@hotmail.com', 'http://avpixlat.info', '62.88.128.21', '2012-05-08 09:01:00', '2012-05-08 07:01:00', 'Men detta är ju verkligen skam och skandal, på högsta nivå. Vi har en myndighet, som i princip blir idiotförklarad av dess domstol. Tror dessa så kallade nämndemän att migrationsverket inte kan sitt jobb? Till att börja med har vi dublinförordningen, hon ska vara kvar i Italien, och sannolikheten är minimal att hennes hallick skulle börja leta efter henne i Nigeria. Knappt ens i Italien om hon så bara bytte stad. Men nej, fram med stora PUT-stämpeln, alla ska in. Vi ska jobba ihjäl oss för att försörja dem, men det bekymrar inte politikerna.\\n\\nNär ska svenska folket vakna och börja rösta väck eländet? De fördärvar den välfärd vi så omsorgsfullt byggt upp.', 0, '1', '', '', 0, 0),\n",
+			"max payne",
+			"#ff2a00",
+			"populate",
+			"populate_coords",
+			"hip_get_posts_without_coords",
+			"trun",
+			"total",
+			"espresso_return_espresso_content",
+			"sandbo",
+			"search?",
+			"gris",
+			"multi",
+			"multiside",
+			"tab",
+			"hej hej",
+			"68.9",
+			"68",
+			"entry-meta",
+			"by ",
+			"post",
+			"entry-content",
+			"vps\nhosting\nlamp \nserver cloud \nvirtual server\nvps\ncolocation\nco-location\ncloud vps \ncloudvps\nwindows vps\negen server\nlinux vps\nvirtuel server\nlinux\nopenvz cloud\nxen cloud\nopenvz vps \nxen vps\nvps openvz\nvps xen \nmanaged server \nserverhall\ndatorhall\ndatahall\nserverhallar\n",
+			"_11_",
+			"_12_",
+			"_13_",
+			"_14_",
+			"_15_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"jQuery(",
+			"slim",
+			"#103065",
+			"90",
+			"_10_",
+			"_11_",
+			"_12_",
+			"_13_",
+			"_14_",
+			"_15_",
+			"_16_",
+			"_17_",
+			"_18_",
+			"_20_",
+			"_22_",
+			"_20_",
+			"_22_",
+			"_23_",
+			"_24_",
+			"_25_",
+			"hip_sublogs",
+			"Post",
+			"Posts"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test.php",
+					"settings":
+					{
+						"buffer_size": 994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"sublime_auto_complete": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"https",
+				"/Users/christian/Dropbox/MacMobile/MacbookProSync/Desktop/resistance ansökningar.txt"
+			],
+			[
+				"sitete",
+				"wp-content/plugins/sitetemplates/sitetemplates.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true
+}
